@@ -13,9 +13,6 @@ Usage of URLRAMOOS for attacking targets without prior mutual consent is illegal
 apt install git
 ```
 ```
-git clone https://github.com/Jaocabelao/URL_RAMOOS-V3.0.git
-```
-```
 apt install python3
 ```
 termux
@@ -29,7 +26,10 @@ sudo pip3 install pyshorteners
 
 ## Comandos para execução
 ```
-cd URLRAMOOS-V3.0
+git clone https://github.com/Jaocabelao/URL_RAMOOS-V3.0.git
+```
+```
+cd URL_RAMOOS-V3.0
 ```
 ```
 python3 URLRAMOOS_V3.0.py
