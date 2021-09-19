@@ -8,7 +8,7 @@ import pyshorteners
 
 def banner():
     print("\033[93m--------------------------------------------")
-    print("                URLRAMOO V3.0        fechar programa  CTRL+Z         ")
+    print("                URLRAMOO V3.0       exit: CTRL+Z         ")
     print("                              ")
     print("   encurtar URL para engenharia social   ")
     print("--------------------------------------------")
