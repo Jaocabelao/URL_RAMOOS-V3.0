@@ -10,17 +10,25 @@ Usage of URLRAMOOS for attacking targets without prior mutual consent is illegal
 
 ```
 apt install git
+```
 git clone https://github.com/PerezMascato/URLCADIZ-V.2
+```
 apt install python3
+```
 pip3 install pyshorteners
+```
 cd URLRAMOOS-V3.0
+```
 python3 URLRAMOOS_V3.0.py
 ```
 ```
 kali Linux
-
+```
 git clone https://github.com/PerezMascato/URLCADIZ-V.2
+```
 sudo pip3 install pyshorteners
+```
 cd URLRAMOOS-V3.0
+```
 python3 URLRAMOOS_V3.0.py
 ```
